@@ -27,6 +27,8 @@ Work experience
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
   
+
+<!--
 Skills
 ======
 * Skill 1
@@ -47,13 +49,19 @@ Talks
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
+
+-->
   
 Teaching
 ======
+* [10-708: Probabilistic Graphical Models(TA in Fall 2020)](http://www.cs.cmu.edu/~pradeepr/708/)
+
+<!---
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+-->
+
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
