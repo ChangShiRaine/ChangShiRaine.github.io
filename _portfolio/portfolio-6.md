@@ -1,6 +1,6 @@
 ---
 title: "An Optimized Airport Checkpoint Model Based on Queuing Theory"
-excerpt: "Mathematical Contest in Modeling Competition, COMAP 2017 <br/><img src='/images/500x300.png'>"
+excerpt: "Mathematical Contest in Modeling Competition, COMAP 2017 <br/><img src='/images/portfolio-6.jpg' width="500" height="300">"
 collection: portfolio
 
 ---
