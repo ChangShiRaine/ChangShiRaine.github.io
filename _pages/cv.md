@@ -54,7 +54,7 @@ Talks
   
 Teaching
 ======
-* [10-708: Probabilistic Graphical Models(TA in Fall 2020)](http://www.cs.cmu.edu/~pradeepr/708/)
+* [10-708: Probabilistic Graphical Models (TA in Fall 2020)](http://www.cs.cmu.edu/~pradeepr/708/)
 
 <!---
   <ul>{% for post in site.teaching %}
