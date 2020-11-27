@@ -5,4 +5,7 @@ collection: portfolio
 
 ---
 
+
 [Github page here](https://github.com/ChangShiRaine/Multimodal-Navigation)
+
+[Download report here](http://changshiraine.github.io/files/11777_report.pdf)

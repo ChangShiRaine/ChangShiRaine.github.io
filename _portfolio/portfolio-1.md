@@ -1,6 +1,6 @@
 ---
 title: "Cisco Connected Mobile Experiences (CMX) Indoor Localization"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/portfolio-1.png'>"
+excerpt: "A better solution for indoor positioning based on Wi-Fi and sensor fusion, Fall 2018, Cisco Innovation Labs <br/><img src='/images/portfolio-1.png'>"
 collection: portfolio
 
 ---
@@ -13,5 +13,7 @@ In this project, we implemented an ios phone SDK to get IMU sensor data from the
 [Download poster here](http://changshiraine.github.io/files/cisco_CMX.pdf)
 
 [More information about Cisco CMX](https://www.cisco.com/c/en/us/products/collateral/wireless/mobility-services-engine/datasheet-c78-734648.html)
+
+[My experience in Cisco](https://www.facebook.com/WeAreCIIP/posts/the-cisco-international-internship-program-is-a-year-long-program-that-runs-from/2026138904174365/)
 
 
