@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * B.S. in Computer Science, Renmin University of China, 2019
-* M.S. in Robotics System Development, Carneigie Mellon University, 2021(expected)
+* M.S. in Robotics System Development, Carneigie Mellon University, 2021 (expected)
 
 <!--
 Work experience
