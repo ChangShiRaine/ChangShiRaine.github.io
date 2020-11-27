@@ -13,7 +13,6 @@ In this project, we implemented an ios phone SDK to get phone sensor data and lo
 ======
 [Download poster here](http://changshiraine.github.io/files/cisco_CMX.pdf)
 
-======
 [More information about Cisco CMX](https://www.cisco.com/c/en/us/products/collateral/wireless/mobility-services-engine/datasheet-c78-734648.html)
 
 
