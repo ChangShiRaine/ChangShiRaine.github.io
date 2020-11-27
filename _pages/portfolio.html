@@ -4,14 +4,22 @@ title: "Projects"
 permalink: /portfolio/
 author_profile: true
 ---
+{% include base_path %}
 
 <h1>Industrial Projects</h1>
 
-<h1>Academic Projects</h1>
+{% include archive-single.html %}
+{% include archive-single.html %}
 
-{% include base_path %}
+<h1>Selected Academic Projects</h1>
 
+
+<!---
 {% for post in site.portfolio %}
   {% include archive-single.html %}
 {% endfor %}
-
+--->
+{% include archive-single.html %}
+{% include archive-single.html %}
+{% include archive-single.html %}
+{% include archive-single.html %}

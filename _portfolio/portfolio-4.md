@@ -6,6 +6,7 @@ collection: portfolio
 ---
 
 [Github page here](https://github.com/aaronzguan/Autonomous-Bin-Picking)
+
 Demo Video
 ---------------
 
