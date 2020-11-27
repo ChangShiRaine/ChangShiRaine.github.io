@@ -10,4 +10,4 @@ This is an item in your portfolio. It can be have images or nice text. If you na
 
 
 
-[Download poster here](http://changshiraine.github.io/files/cisco_DeepPHY.pdf)
+[Github page here](https://github.com/aaronzguan/Autonomous-Bin-Picking)
