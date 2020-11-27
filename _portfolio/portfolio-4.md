@@ -10,4 +10,4 @@ Demo Video
 ---------------
 
 Please watch the demo video on Youtube
-[![](/images/portfolio-4-demo.png)](https://www.youtube.com/watch?v=SxaQyB_vTLc&feature=youtu.be)
+[![](/images/portfolio-4-demo.png =500x300)](https://www.youtube.com/watch?v=SxaQyB_vTLc&feature=youtu.be)
