@@ -5,8 +5,6 @@ collection: portfolio
 
 ---
 
-<!---This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. --->
-
 When GPS signals are not accessible indoors, Fine Timing Measurement (FTM) procedure between the Mobile device (STA) and Network infrastructure device (AP) is used to serve for indoor positioning. While pure FTM-based localization is noise sensitive, the various senors on the Mobile devices may assist to correct the error and improve the localization accuracy. 
 
 In this project, we implemented an ios phone SDK to get phone sensor data and location estimation from FTM while ensuring information security based on access control. We then used fusion algorithms to combine AP data with phone sensor data to do path-matching and improved indoor localization accuracy. 
