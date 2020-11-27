@@ -1,5 +1,5 @@
 ---
-title: "Cisco Connected Mobile Experiences(CMX) Indoor Localization"
+title: "Cisco Connected Mobile Experiences (CMX) Indoor Localization"
 excerpt: "Short description of portfolio item number 1<br/><img src='/images/portfolio-1.png'>"
 collection: portfolio
 

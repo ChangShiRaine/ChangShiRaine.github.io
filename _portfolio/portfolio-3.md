@@ -1,8 +1,8 @@
 ---
-title: "RLBench Simulation for Autonomous Bin Picking"
-excerpt: "Short description of portfolio item number 2 <br/><img src='/images/500x300.png'>"
+title: "Multimodal graph-structured trjectory prediction based on spatio-temporal attention mechanism"
+excerpt: "11-777 Multimodal Machine Learning, Fall 2020, Carnegie Mellon University <!---<br/><img src='/images/500x300.png'>"--->"
 collection: portfolio
 
 ---
 
-[Github page here](https://github.com/aaronzguan/Autonomous-Bin-Picking)
+[Github page here](https://github.com/ChangShiRaine/Multimodal-Navigation)
