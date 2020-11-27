@@ -1,6 +1,6 @@
 ---
 title: "Time-Varying DAGs with NOTEARS"
-excerpt: "10-708 Probabilistic Graphical Models, Spring 2020, Carnegie Mellon University <br/><img src='/images/portfolio-5.png'>"
+excerpt: "10-708 Probabilistic Graphical Models, Spring 2020, Carnegie Mellon University <br/><img src='/images/portfolio-5-small.png'>"
 collection: portfolio
 
 ---
