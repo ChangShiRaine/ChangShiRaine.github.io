@@ -9,9 +9,11 @@ redirect_from:
 
 {% include base_path %}
 
+[PDF version](http://changshiraine.github.io/files/Resume_changshi.pdf)
+
 Education
 ======
-* B.S. in Computer Science, Renmin University of China, 2019
+* B.Eng. in Computer Science, Renmin University of China, 2019
 * M.S. in Robotics System Development, Carneigie Mellon University, 2021 (expected)
 
 <!--
@@ -51,12 +53,22 @@ Talks
   {% endfor %}</ul>
 
 -->
+
+Experience
+======
+* Research Intern, Cisco, 2019
+* Cross-disciplinary Scholars in Science and Technology(CSST), University of California, Los Angeles, Summer 2018
+* Exchange Student, the University of Hong Kong, Spring 2018
+
   
 Teaching
 ======
 * [10-708: Probabilistic Graphical Models (TA in Fall 2020)](http://www.cs.cmu.edu/~pradeepr/708/)
 
-[PDF version](http://changshiraine.github.io/files/Resume_changshi.pdf)
+Miscellaneous
+======
+I am a travel enthusiast.
+![](/images/my-travel-map.png =500x300)
 
 <!---
   <ul>{% for post in site.teaching %}
