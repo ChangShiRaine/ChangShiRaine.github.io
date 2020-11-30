@@ -33,11 +33,12 @@ Automatic Tumor Localization for Minimally Invasive Surgery
 
 A surgical system aiming at better therapy for patients and less cognitive load for surgeons.
 
-[![](https://changshiraine.github.io/images/dvrk_system.png)]
 
-[![](https://changshiraine.github.io/images/dcrk_arch.png)]
+[![](https://changshiraine.github.io/images/dvrk_system.png =800x500)
 
-[![](https://changshiraine.github.io/images/dvrm_msp.jpg)]
+[![](https://changshiraine.github.io/images/dcrk_arch.png =800x500)
+
+[![](https://changshiraine.github.io/images/dvrm_msp.jpg =800x500)
 
 Demo Video
 ---------------
