@@ -66,7 +66,7 @@ We operated iterative optimization of bidirectional blob matching and thin plate
 
 ![Our method](https://changshiraine.github.io/images/good.jpg)
 
-We then use a customized calibrated RealSense camera to acquire the location information from the markers and get the deformation model. We are improving and verifying the model through collaboration with mathematicians of UPitts, who looks into the problem from computational perspective, by analyzing strain, Young’s modulus, etc.
+We then use a customized calibrated RealSense camera to acquire the location information from the markers and get the deformation model. We are improving and verifying the model through collaboration with mathematicians of UPitts, who look into the problem from the computational perspective, by analyzing strain, Young’s modulus, etc.
 
 
 
