@@ -56,6 +56,8 @@ Teaching
 ======
 * [10-708: Probabilistic Graphical Models (TA in Fall 2020)](http://www.cs.cmu.edu/~pradeepr/708/)
 
+[PDF version](http://changshiraine.github.io/files/Resume_changshi.pdf)
+
 <!---
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
