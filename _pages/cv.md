@@ -69,7 +69,7 @@ Miscellaneous
 ======
 I am a travel enthusiast.
 
-![](https://changshiraine.github.io/images/my-travel-map.png)
+![](https://changshiraine.github.io/images/my-travel-map.jpg)
 
 <!---
   <ul>{% for post in site.teaching %}
