@@ -9,6 +9,5 @@ collection: portfolio
 
 Demo Video
 ---------------
-Please watch the demo video on Youtube
 
 [![](https://changshiraine.github.io/images/portfolio-4-small.jpg)](https://www.youtube.com/watch?v=SxaQyB_vTLc&feature=youtu.be)
