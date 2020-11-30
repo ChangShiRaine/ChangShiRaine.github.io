@@ -68,7 +68,8 @@ Teaching
 Miscellaneous
 ======
 I am a travel enthusiast.
-![](/images/my-travel-map.png =500x300)
+
+![](https://changshiraine.github.io/images/my-travel-map.png)
 
 <!---
   <ul>{% for post in site.teaching %}
