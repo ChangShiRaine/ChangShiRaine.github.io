@@ -28,7 +28,7 @@ Research Projects
 --->
 
 
-Automatic Tumor Localization for Minimally Invasive Surgery [(Website)](https://mrsdprojects.ri.cmu.edu/2020teama/documents/)
+Automatic Tumor Localization for Minimally Invasive Surgery [(Website)](https://mrsdprojects.ri.cmu.edu/2020teama/)
 ======
 
 A surgical system aiming at better therapy for patients and less cognitive load for surgeons.
