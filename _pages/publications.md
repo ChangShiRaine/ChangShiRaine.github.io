@@ -28,7 +28,7 @@ Research Projects
 --->
 
 
-Automatic Tumor Localization for Minimally Invasive Surgery
+Automatic Tumor Localization for Minimally Invasive Surgery [(Project Website for more details)](https://mrsdprojects.ri.cmu.edu/2020teama/documents/)
 ======
 
 A surgical system aiming at better therapy for patients and less cognitive load for surgeons.
@@ -47,10 +47,6 @@ Demo Video
 ---------------
 
 [![](https://changshiraine.github.io/images/research_front.jpg)](https://www.youtube.com/watch?v=6q6407emmPA)
-
-[Project Website for more details](https://mrsdprojects.ri.cmu.edu/2020teama/documents/)
-
-
 
 
 Dermatological Tissue Deformation Modelling
