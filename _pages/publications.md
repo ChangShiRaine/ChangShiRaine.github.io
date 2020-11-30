@@ -19,5 +19,10 @@ author_profile: true
 Research Projects
 ======
 
+{% include base_path %}
+
+{% for post in site.reseach reversed %}
+  {% include archive-single.html %}
+{% endfor %}
 
 
