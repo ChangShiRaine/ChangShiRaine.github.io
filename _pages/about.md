@@ -14,7 +14,7 @@ My current reseach are focusing on surgical robots. Check out our work on [da Vi
 
 1. Closing the gap between simulation and reality for robots
 2. Safe and trustworthy robot control with human-in-the-loop system
-3. Better sensor fusion: haptic, vision, or even language
+3. Better sensor fusion: haptic, visiual, or even language
 4. Efficient human-robot and robot-robot collaboration
 
 In my spare time, I enjoy playing tennis, piano and anime.
