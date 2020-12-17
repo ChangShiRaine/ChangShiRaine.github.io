@@ -13,9 +13,9 @@ I am a Master student in the Robotics Institute (RI) at Carnegie Mellon Universi
 My current reseach are focusing on surgical robots. Check out our work on [da Vinci Surgical System](https://changshiraine.github.io/publications/)! My research goal is to build surgical robot systems that are robust, efficient and trustworthy enough to satisfy the demand of real surgery scenarios. Motivated by this goal, I am especially interested in the following topics:
 
 1. Closing the gap between simulation and reality for robots
-2. Safe and trustworthy robot control with human-in-the-loop system
-3. Better sensor fusion: haptic, visiual, or even language
-4. Efficient human-robot and robot-robot collaboration
+2. Robust and trustworthy robot control with human-in-the-loop systems
+3. Better sensor fusion: Haptic, vision, neural signals and so on 
+4. Efficient multi-robot collaboration
 
 In my spare time, I enjoy playing tennis, piano and anime.
 
