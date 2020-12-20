@@ -48,6 +48,8 @@ Demo Video
 
 [![](https://changshiraine.github.io/images/research_front.jpg)](https://www.youtube.com/watch?v=6q6407emmPA)
 
+[Download the report here](http://changshiraine.github.io/files/DVRK_final_report.pdf)
+
 
 Dermatological Tissue Deformation Modelling
 ======
