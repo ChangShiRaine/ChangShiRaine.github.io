@@ -10,7 +10,7 @@ redirect_from:
 
 I am a Master student in the Robotics Institute (RI) at Carnegie Mellon University (CMU) working with Prof. [Howie Choset](https://www.cs.cmu.edu/~./choset/bio.html) and Prof. [John Galeotti](https://www.ri.cmu.edu/ri-faculty/john-galeotti/) on biomedical robotics. I received my Bachelor of Engineering degree in Computer Science from Renmin University of China (RUC) in 2019. During my undergraduate, I worked with Prof. [Xinqi Gong](http://ims.ruc.edu.cn/displaynews.php?id=51) on multimeric protein binding site analysis. I visited University of California, Los Angeles(UCLA) in 2018 for the [Cross-disciplinary Scholars in Science and Technology(CSST)](https://csst.ucla.edu) summer research program. I was advised by Prof. [Andrea L. Bertozzi](https://www.math.ucla.edu/~bertozzi/) on ego-motion classification of body-worn videos.
 
-My current reseach are focusing on surgical robots. Check out our work on [da Vinci Surgical System](https://changshiraine.github.io/publications/)! My research goal is to build surgical robot systems that are robust, efficient and trustworthy enough to satisfy the demand of real surgery scenarios. Motivated by this goal, I am especially interested in the following topics:
+My current reseach are focusing on surgical robots. Check out our work on [da Vinci Surgical System](https://changshiraine.github.io/publications/)! My research goal is to build medical robot systems that are robust, efficient and trustworthy enough to satisfy the demand of real clinical scenarios. Motivated by this goal, I am especially interested in the following topics:
 
 1. Closing the gap between simulation and reality for robots
 2. Robust and trustworthy robot control with human-in-the-loop systems
