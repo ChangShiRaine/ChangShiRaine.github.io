@@ -56,6 +56,7 @@ Talks
 
 Experience
 ======
+* Research Intern, NEC Labs America, 2021
 * Research Intern, Cisco, 2019
 * Cross-disciplinary Scholars in Science and Technology(CSST), University of California, Los Angeles, Summer 2018
 * Exchange Student, the University of Hong Kong, Spring 2018
@@ -64,6 +65,7 @@ Experience
 Teaching
 ======
 * [10-708: Probabilistic Graphical Models (TA in Fall 2020)](http://www.cs.cmu.edu/~pradeepr/708/)
+* [10-716: Advanced Machine Learning: Theory and Methods (TA in Spring 2021)](http://www.cs.cmu.edu/~pradeepr/716/)
 
 Miscellaneous
 ======
