@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Chang Shi"
   avatar           : "profile.jpeg"
-  bio              : "obotics PhD student at UT Austin,"
+  bio              : "Robotics PhD student at UT Austin,"
   location         : "Austin, TX"
   employer         :
   pubmed           :  # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : www.linkedin.com/in/chang-shi
+  linkedin         : "https://www.linkedin.com/in/chang-shi"
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
