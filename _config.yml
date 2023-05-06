@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Chang Shi"
   avatar           : "profile.jpeg"
-  bio              : "Master student at Robotics Institute, Carnegie Mellon University"
-  location         : "Pittsburgh, PA"
+  bio              : "obotics PhD student at UT Austin,"
+  location         : "Austin, TX"
   employer         :
   pubmed           :  # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=R10gPuoAAAAJ&hl=en&oi=sra"
-  email            : changshi@andrew.cmu.edu
+  email            : changshi@utexas.edu
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
