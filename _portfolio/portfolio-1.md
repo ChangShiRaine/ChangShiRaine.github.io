@@ -1,19 +1,21 @@
----
-title: "Cisco Connected Mobile Experiences (CMX) Indoor Localization"
-excerpt: "A better solution for indoor positioning based on Wi-Fi and sensor fusion, Fall 2018, Cisco Innovation Labs <br/><img src='/images/portfolio-1.png'>"
-collection: portfolio
+Automatic Tumor Localization for Minimally Invasive Surgery [(Website)](https://mrsdprojects.ri.cmu.edu/2020teama/)
+======
 
----
+A surgical system aiming at better therapy for patients and less cognitive load for surgeons.
 
-When GPS signals are not accessible indoors, Fine Timing Measurement (FTM) procedure between the Mobile device (STA) and Network infrastructure device (AP) is used to serve for indoor positioning. While pure FTM-based localization is noise sensitive, the various senors on the Mobile devices may assist to correct the error and improve the localization accuracy. 
+The hardware setup includes: the da Vinci surgical system, CMU-Boeing Blaser senor (a light-weighted laser scanner), stereo camera(Intel RealSense), forth sensor, motion simulation platform and phantom liver model.
+![](https://changshiraine.github.io/images/dvrk_system.png )
 
-In this project, we implemented an ios phone SDK to get IMU sensor data from the phone and location estimation from FTM while ensuring information security based on access control. We then used fusion algorithms to combine AP data with phone sensor data to do path-matching and improved indoor localization accuracy. 
+A brief diagram of the system architecture:
+![](https://changshiraine.github.io/images/dcrk_arch.png)
 
+We built a motion simulation platform based on the open-source Stewart platform designed by Professor Ken Goldberg, to mimic the subtle motion or organ during the surgery due to the heartbeat and respiration of the patient.
 
-[Download poster here](http://changshiraine.github.io/files/cisco_CMX.pdf)
+![](https://changshiraine.github.io/images/dvrm_msp.jpg)
 
-[More information about Cisco CMX](https://www.cisco.com/c/en/us/products/collateral/wireless/mobility-services-engine/datasheet-c78-734648.html)
+Demo Video
+---------------
 
-[My experience in Cisco](https://www.facebook.com/WeAreCIIP/posts/the-cisco-international-internship-program-is-a-year-long-program-that-runs-from/2026138904174365/)
+[![](https://changshiraine.github.io/images/research_front.jpg)](https://www.youtube.com/watch?v=6q6407emmPA)
 
-
+[Download the report here](http://changshiraine.github.io/files/DVRK_final_report.pdf)
