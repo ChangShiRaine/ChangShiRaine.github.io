@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[PDF version](http://changshiraine.github.io/files/Resume_changshi.pdf)
+[PDF version](http://changshiraine.github.io/files/Resume_chang_2023_fall.pdf)
 
 Education
 ======
