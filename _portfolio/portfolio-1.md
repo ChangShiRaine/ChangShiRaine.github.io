@@ -5,7 +5,7 @@ collection: portfolio
 
 ---
 
-Automatic Tumor Localization for Minimally Invasive Surgery [(Website)](https://mrsdprojects.ri.cmu.edu/2020teama/)
+[(Website)](https://mrsdprojects.ri.cmu.edu/2020teama/)
 ======
 
 A surgical system aiming at better therapy for patients and less cognitive load for surgeons.
