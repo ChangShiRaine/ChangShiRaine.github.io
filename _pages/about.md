@@ -8,17 +8,19 @@ redirect_from:
   - /about.html
 ---
 
-I am a second-year PhD student at UT Austin advised by Professor [Ann Majewicz Fey](https://www.me.utexas.edu/people/faculty-directory/amfey). <!--- I also work with Professor [Peter Stone](https://www.cs.utexas.edu/~pstone/). --->I received my Master of Robotics System Development from the Robotics Institute (RI) at Carnegie Mellon University (CMU), working with Professor [Howie Choset](https://www.cs.cmu.edu/~./choset/bio.html) and Professor [John Galeotti](https://www.ri.cmu.edu/ri-faculty/john-galeotti/) on biomedical robotics. I received my Bachelor of Engineering in Computer Science from Renmin University of China (RUC) in 2019. During my undergraduate, I worked with Professor [Xinqi Gong](http://ims.ruc.edu.cn/displaynews.php?id=51) on multimeric protein binding site analysis. I visited University of California, Los Angeles(UCLA) in 2018 for the [Cross-disciplinary Scholars in Science and Technology(CSST)](https://csst.ucla.edu) summer research program. I was advised by Prof. [Andrea L. Bertozzi](https://www.math.ucla.edu/~bertozzi/) on ego-motion classification of body-worn videos.
+I am a third-year PhD student at UT Austin advised by Professor [Amy Zhang](https://www.ece.utexas.edu/people/faculty/amy-zhang). <!--- I also work with Professor [Peter Stone](https://www.cs.utexas.edu/~pstone/). --->I received my Master of Robotics System Development from the Robotics Institute (RI) at Carnegie Mellon University (CMU), working with Professor [Howie Choset](https://www.cs.cmu.edu/~./choset/bio.html) and Professor [John Galeotti](https://www.ri.cmu.edu/ri-faculty/john-galeotti/) on biomedical robotics. I received my Bachelor of Engineering in Computer Science from Renmin University of China (RUC) in 2019. During my undergraduate, I worked with Professor [Xinqi Gong](http://ims.ruc.edu.cn/displaynews.php?id=51) on multimeric protein binding site analysis. I visited University of California, Los Angeles(UCLA) in 2018 for the [Cross-disciplinary Scholars in Science and Technology(CSST)](https://csst.ucla.edu) summer research program. I was advised by Prof. [Andrea L. Bertozzi](https://www.math.ucla.edu/~bertozzi/) on ego-motion classification of body-worn videos.
 
-My reseach interests focus on building robot systems that can analyze multimodal inputs from the physical world and intelligently aid human decision making through either autonomous, semi-autonomous or guidance solutions. Currently I am working on reinforcement learning and medical robotics. I would also like to work on the following topics in the future:
+<!-- My reseach interests focus on building robot systems that can analyze multimodal inputs from the physical world and intelligently aid human decision making through either autonomous, semi-autonomous or guidance solutions. Currently I am working on reinforcement learning and medical robotics. I would also like to work on the following topics in the future: -->
 
 <!--- Check out our work on [da Vinci Surgical System](https://changshiraine.github.io/publications/)! My research goal is to build medical robot systems that are robust, efficient and trustworthy enough to satisfy the demand of real clinical scenarios. Motivated by this goal, I am especially interested in the following topics: 
 --->
 
-1. Closing the gap between simulation and reality for robots
+<!-- 1. Closing the gap between simulation and reality for robots
 2. Robust and trustworthy robot control with human-in-the-loop systems
 3. Better sensor fusion: Haptic, vision, neural signals and so on 
-4. Efficient multi-robot collaboration
+4. Efficient multi-robot collaboration -->
+
+My reseach interests focus on developing efficient robot learning methods that are generalizable to new tasks, with an ultimate goal of facilitate humans with daily chores, through either autonomous, semi-autonomous or guidance solutions. Currently I am working on imitation learning and represenation learning. 
 
 In my spare time, I enjoy playing tennis, piano and anime.
 
