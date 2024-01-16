@@ -10,17 +10,17 @@ author_profile: true
 {% endif %}
 --->
 
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
 
 Non-rigid cutaneous tissue deformation estimation with iterative RANSAC and TPS from digital images over semi-ambiguous artificial markings
 ---
 
 Chang Shi, Dustin P. DeMeo, Emma L. Larson, John M. Galeotti, Bryan T. Carroll. 2021 Computer Assisted Radiology and Surgery(CARS).
 
+{% include base_path %}
+
+{% for post in site.publications reversed %}
+  {% include archive-single.html %}
+{% endfor %}
 
 
 <!---

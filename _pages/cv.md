@@ -13,8 +13,10 @@ redirect_from:
 
 Education
 ======
+* Ph.D. in Dynamic Systems and Control, The University of Texas at Austin, 2026 (expected)
+* M.S. in Robotics System Development, Carneigie Mellon University, 2021 
 * B.Eng. in Computer Science, Renmin University of China, 2019
-* M.S. in Robotics System Development, Carneigie Mellon University, 2021 (expected)
+
 
 <!--
 Work experience
@@ -56,6 +58,7 @@ Talks
 
 Experience
 ======
+* Applied Scientist Intern, Amazon Robotics, 2023
 * Research Intern, NEC Labs America, 2021
 * Research Intern, Cisco, 2019
 * Cross-disciplinary Scholars in Science and Technology(CSST), University of California, Los Angeles, Summer 2018
@@ -64,8 +67,9 @@ Experience
   
 Teaching
 ======
-* [10-708: Probabilistic Graphical Models (TA in Fall 2020)](http://www.cs.cmu.edu/~pradeepr/708/)
-* [10-716: Advanced Machine Learning: Theory and Methods (TA in Spring 2021)](http://www.cs.cmu.edu/~pradeepr/716/)
+* [UT ECE 461L: Software Engineering and Design Laboratory (TA in Spring 2024)]()
+* [CMU 10-708: Probabilistic Graphical Models (TA in Fall 2020)](http://www.cs.cmu.edu/~pradeepr/708/)
+* [CMU 10-716: Advanced Machine Learning: Theory and Methods (TA in Spring 2021)](http://www.cs.cmu.edu/~pradeepr/716/)
 
 Miscellaneous
 ======
