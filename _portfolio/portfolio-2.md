@@ -5,6 +5,7 @@ collection: portfolio
 
 ---
 
+
 During the production process of frozen pathological sections, the squeezing and strain caused by the slide would lead to deformation of the tissue. Modeling tissue processing biomechanics may identify aspects that contribute to errors in detecting tumors. 
 
 Due to the homogenous texture of the tissue specimen, it’s hard to measure similarity with anatomical identifications during registration, thus we add artificial matte dye markers to the tissue. 

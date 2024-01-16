@@ -5,10 +5,9 @@ collection: portfolio
 
 ---
 
-[(Website)](https://mrsdprojects.ri.cmu.edu/2020teama/)
-======
 
-A surgical system aiming at better therapy for patients and less cognitive load for surgeons.
+
+A surgical system aiming at better therapy for patients and less cognitive load for surgeons [Website](https://mrsdprojects.ri.cmu.edu/2020teama/).
 
 The hardware setup includes: the da Vinci surgical system, CMU-Boeing Blaser senor (a light-weighted laser scanner), stereo camera(Intel RealSense), forth sensor, motion simulation platform and phantom liver model.
 ![](https://changshiraine.github.io/images/dvrk_system.png )
