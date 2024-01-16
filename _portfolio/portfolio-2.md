@@ -1,3 +1,10 @@
+---
+title: "Dermatological Tissue Deformation Modelling"
+# excerpt: "A deep learning based channel estimation solution, Spring 2019, Cisco Innovation Labs <br/><img src='/images/portfolio-2-small.png'>"
+collection: portfolio
+
+---
+
 Dermatological Tissue Deformation Modelling
 ======
 
