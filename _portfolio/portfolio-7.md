@@ -1,6 +1,6 @@
 ---
 title: "Cisco Connected Mobile Experiences (CMX) Indoor Localization"
-excerpt: "A better solution for indoor positioning based on Wi-Fi and sensor fusion, Fall 2018, Cisco Innovation Labs <br/><img src='/images/portfolio-1.png'>"
+excerpt: "A better solution for indoor positioning based on Wi-Fi and sensor fusion<br/><img src='/images/portfolio-1.png'>"
 collection: portfolio
 
 ---
@@ -10,7 +10,7 @@ When GPS signals are not accessible indoors, Fine Timing Measurement (FTM) proce
 In this project, we implemented an ios phone SDK to get IMU sensor data from the phone and location estimation from FTM while ensuring information security based on access control. We then used fusion algorithms to combine AP data with phone sensor data to do path-matching and improved indoor localization accuracy. 
 
 
-[Download poster here](http://changshiraine.github.io/files/cisco_CMX.pdf)
+[Poster](http://changshiraine.github.io/files/cisco_CMX.pdf)
 
 [More information about Cisco CMX](https://www.cisco.com/c/en/us/products/collateral/wireless/mobility-services-engine/datasheet-c78-734648.html)
 

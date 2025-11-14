@@ -1,11 +1,11 @@
 ---
 title: "RLBench Simulation for Autonomous Bin Picking"
-excerpt: "16-662 Robot Autonomy, Spring 2020, Carnegie Mellon University <br/><img src='/images/portfolio-4-demo.png'>"
+excerpt: " <br/><img src='/images/portfolio-4-demo.png'>"
 collection: portfolio
 
 ---
 
-[Github page here](https://github.com/aaronzguan/Autonomous-Bin-Picking)
+[Github](https://github.com/aaronzguan/Autonomous-Bin-Picking)
 
 Demo Video
 ---------------
