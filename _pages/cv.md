@@ -65,12 +65,14 @@ Experience
 * Exchange Student, the University of Hong Kong, Spring 2018
 
   
-Teaching
+Teaching & Services
 ======
 * UT ME 369P:  Application Programming for Engineers, Fall 2025
 * UT ECE 461L: Software Engineering and Design Laboratory, Spring & Fall 2024
 * [CMU 10-708: Probabilistic Graphical Models, Fall 2020](http://www.cs.cmu.edu/~pradeepr/708/)
 * [CMU 10-716: Advanced Machine Learning: Theory and Methods, Spring 2021](http://www.cs.cmu.edu/~pradeepr/716/)
+
+Co-hosting [UT Austin RL reading group](https://www.cs.utexas.edu/~rlrg/website.md.html). If you are interested in collaboration, or join the discussion, feel free to reach out!
 
 <!-- Miscellaneous
 ======
