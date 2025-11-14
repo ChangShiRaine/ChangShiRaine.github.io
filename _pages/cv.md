@@ -67,8 +67,8 @@ Experience
   
 Teaching
 ======
-* [UT ME 369P:  Application Programming for Engineers, Fall 2025)]
-* [UT ECE 461L: Software Engineering and Design Laboratory, Spring & Fall 2024]
+* UT ME 369P:  Application Programming for Engineers, Fall 2025
+* UT ECE 461L: Software Engineering and Design Laboratory, Spring & Fall 2024
 * [CMU 10-708: Probabilistic Graphical Models, Fall 2020](http://www.cs.cmu.edu/~pradeepr/708/)
 * [CMU 10-716: Advanced Machine Learning: Theory and Methods, Spring 2021](http://www.cs.cmu.edu/~pradeepr/716/)
 
