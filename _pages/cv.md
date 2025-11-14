@@ -61,7 +61,7 @@ Experience
 * Applied Scientist Intern, Amazon Robotics, 2023 & 2024
 * Research Intern, NEC Labs America, 2021
 * Research Intern, Cisco, 2019
-* Cross-disciplinary Scholars in Science and Technology(CSST), University of California, Los Angeles, Summer 2018
+* Cross-disciplinary Scholars in Science and Technology(CSST), UCLA, Summer 2018
 * Exchange Student, the University of Hong Kong, Spring 2018
 
   
