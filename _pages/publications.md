@@ -10,15 +10,33 @@ author_profile: true
 {% endif %}
 --->
 
+FLAM: Scaling Latent Action World Models with Factorization
+---
+Chang Shi<sup>\*</sup>, Zizhao Wang<sup>\*</sup>, Jiaheng Hu, Roberto Martin-Martin, Amy Zhang, Peter Stone. NeurIPS 2025 Embodied World Models
+for Decision Making Workshop.
+
+
+FastDP: Deployable Diffusion Policy for Fast Inference Speed
+---
+Chang Shi, Amy Zhang. RLC 2025 RL for Real System Workshop
+
+
+Null Counterfactual Factor Interactions for Goal-Conditioned Reinforcement Learning
+---
+Caleb Chuck, Fan Feng, Carl Qi, Chang Shi, Amy Zhang, Scott Niekum. ICLR 2025.
+
+
+Robot Air Hockey: A Manipulation Testbed for Robot Learning with Reinforcement Learning
+---
+Caleb Chuck<sup>\*</sup>, Carl Qi<sup>\*</sup>, Michael J Munje<sup>\*</sup>, Shuozhe Li<sup>\*</sup>, Max Rudolph<sup>\*</sup>, Chang Shi<sup>\*</sup>, Siddhant Agarwal<sup>\*</sup>, Harshit Sikchi<sup>\*</sup>, Abhinav Peri, Sarthak Dayal, Evan Kuo, Kavan Mehta, Anthony Wang, Peter Stone, Amy Zhang, Scott Niekum. ICRA 2024 Agile Robotics Workshop, Manipulation Skills Workshop.
+
 Haptic Guidance Using a Transformer-Based Surgeon-Side Trajectory Prediction Algorithm for Robot-Assisted Surgical Training
 ---
 Chang Shi, Jonathan Madera, Heath Boyea, Ann Majewicz Fey. International Conference on Robot and Human Interactive Communication (RO-MAN 2023)
 
-
 Recognition and Prediction of Surgical Gestures and Trajectories Using Transformer Models in Robot-Assisted Surgery
 ---
-Chang Shi, Yi Zheng, Ann Majewicz Fey. International Conference on Intelligent Robots and Systems (IROS 2022)
-
+Chang Shi<sup>\*</sup>, Yi Zheng<sup>\*</sup>, Ann Majewicz Fey. International Conference on Intelligent Robots and Systems (IROS 2022)
 
 Non-rigid cutaneous tissue deformation estimation with iterative RANSAC and TPS from digital images over semi-ambiguous artificial markings
 ---

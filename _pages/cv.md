@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[PDF version](http://changshiraine.github.io/files/Resume_chang_2023_fall.pdf)
+[CV (updated Nov 2025)](http://changshiraine.github.io/files/Chang_CV_2025.pdf)
 
 Education
 ======
@@ -58,7 +58,7 @@ Talks
 
 Experience
 ======
-* Applied Scientist Intern, Amazon Robotics, 2023
+* Applied Scientist Intern, Amazon Robotics, 2023 & 2024
 * Research Intern, NEC Labs America, 2021
 * Research Intern, Cisco, 2019
 * Cross-disciplinary Scholars in Science and Technology(CSST), University of California, Los Angeles, Summer 2018
@@ -67,16 +67,17 @@ Experience
   
 Teaching
 ======
-* [UT ECE 461L: Software Engineering and Design Laboratory (TA in Spring 2024)]()
-* [CMU 10-708: Probabilistic Graphical Models (TA in Fall 2020)](http://www.cs.cmu.edu/~pradeepr/708/)
-* [CMU 10-716: Advanced Machine Learning: Theory and Methods (TA in Spring 2021)](http://www.cs.cmu.edu/~pradeepr/716/)
+* [UT ME 369P:  Application Programming for Engineers, Fall 2025)]
+* [UT ECE 461L: Software Engineering and Design Laboratory, Spring & Fall 2024]
+* [CMU 10-708: Probabilistic Graphical Models, Fall 2020](http://www.cs.cmu.edu/~pradeepr/708/)
+* [CMU 10-716: Advanced Machine Learning: Theory and Methods, Spring 2021](http://www.cs.cmu.edu/~pradeepr/716/)
 
-Miscellaneous
+<!-- Miscellaneous
 ======
 I am a travel enthusiast.
 
 ![](https://changshiraine.github.io/images/my-travel-map.jpg)
-
+ -->
 <!---
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}

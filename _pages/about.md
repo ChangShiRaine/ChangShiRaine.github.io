@@ -8,8 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student at UT Austin advised by Professor [Amy Zhang](https://www.ece.utexas.edu/people/faculty/amy-zhang). <!--- I also work with Professor [Peter Stone](https://www.cs.utexas.edu/~pstone/). --->I received my Master of Robotics System Development from the Robotics Institute at Carnegie Mellon University, working with Professor [Howie Choset](https://www.cs.cmu.edu/~./choset/bio.html) and Professor [John Galeotti](https://www.ri.cmu.edu/ri-faculty/john-galeotti/) on biomedical robotics. I received my Bachelor of Computer Science from Renmin University of China in 2019. I visited University of California, Los Angeles(UCLA) in 2018. I was advised by Prof. [Andrea L. Bertozzi](https://www.math.ucla.edu/~bertozzi/) on ego-motion classification of body-worn videos.
-
+I am a Ph.D. student at UT Austin advised by Prof. [Amy Zhang](https://www.ece.utexas.edu/people/faculty/amy-zhang). <!--- I also work with Professor [Peter Stone](https://www.cs.utexas.edu/~pstone/). ---> Previously, I was a Master student in Robotics Institute at Carnegie Mellon University, working with Prof. [Howie Choset](https://www.cs.cmu.edu/~./choset/bio.html) and Prof. [John Galeotti](https://www.ri.cmu.edu/ri-faculty/john-galeotti/) on biomedical robotics. I received my Bachelor of Computer Science from Renmin University of China. I also worked with Prof. [Andrea L. Bertozzi](https://www.math.ucla.edu/~bertozzi/) on ego-motion classification of body-worn videos, as a visiting undergraduate scholar at UCLA.
 <!-- My reseach interests focus on building robot systems that can analyze multimodal inputs from the physical world and intelligently aid human decision making through either autonomous, semi-autonomous or guidance solutions. Currently I am working on reinforcement learning and medical robotics. I would also like to work on the following topics in the future: -->
 
 <!--- Check out our work on [da Vinci Surgical System](https://changshiraine.github.io/publications/)! My research goal is to build medical robot systems that are robust, efficient and trustworthy enough to satisfy the demand of real clinical scenarios. Motivated by this goal, I am especially interested in the following topics: 
@@ -20,7 +19,7 @@ I am a PhD student at UT Austin advised by Professor [Amy Zhang](https://www.ece
 3. Better sensor fusion: Haptic, vision, neural signals and so on 
 4. Efficient multi-robot collaboration -->
 
-My reseach interests focus on developing efficient robot learning methods that are generalizable to new tasks, with an ultimate goal of facilitate humans with daily chores, through either autonomous, semi-autonomous or guidance solutions. Currently I am working on imitation learning and represenation learning. 
+My reseach interests focus on developing efficient robot learning methods that are scalable and generalizable from divsere data,  with an ultimate goal of facilitate humans with daily chores, through either autonomous, semi-autonomous or guidance solutions. Recently, I am working on imitation learning and controllable represenation learning for world models.
 
 In my spare time, I enjoy playing piano, tennis and skateboard.
 
