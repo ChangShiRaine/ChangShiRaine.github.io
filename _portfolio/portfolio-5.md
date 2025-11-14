@@ -1,6 +1,6 @@
 ---
 title: "Time-Varying DAGs with NOTEARS"
-excerpt: "10-708 Probabilistic Graphical Models, Spring 2020, Carnegie Mellon University <br/><img src='/images/portfolio-5-small.png'>"
+excerpt: "<br/><img src='/images/portfolio-5-small.png'>"
 collection: portfolio
 
 ---
@@ -24,4 +24,4 @@ We summarize our contributions as followed:
 
 Figure: Accuracy of Temporally Regularized NOTEARS implementation. We implemented a dynamic Gaussian Bayesian network whose structure changed over time and assessed our algorithm’s ability to deduce the correct network structure over each time point. We utilized two networks: one “slowly-changing” network where each edge had a 10% of changing each time step and one faster changing network where each edge had a 50% chance of changing. The x-axis shows how “temporally smooth” our hyperparameterization forces the deduced graphs to be. The far left points represent no temporal smoothness penalization which is identical to using the original NO TEARS implementation on each time point independently.
 
-[Download report here](http://changshiraine.github.io/files/10708_Final_Report.pdf)
+[Full Report](http://changshiraine.github.io/files/10708_Final_Report.pdf)
