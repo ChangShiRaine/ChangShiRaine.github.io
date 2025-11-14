@@ -10,19 +10,19 @@ author_profile: true
 {% endif %}
 --->
 
-FLAM: Scaling Latent Action World Models with Factorization
+FLAM: Scaling Latent Action World Models with Factorization [Paper](https://openreview.net/pdf?id=BNy6FuNThg)
 ---
 Zizhao Wang<sup>\*</sup>, Chang Shi<sup>\*</sup>, Jiaheng Hu, Roberto Martin-Martin, Amy Zhang, Peter Stone. NeurIPS 2025 Embodied World Models
 for Decision Making Workshop.
 
-[Paper](https://openreview.net/pdf?id=BNy6FuNThg)
 
 
-FastDP: Deployable Diffusion Policy for Fast Inference Speed
+
+FastDP: Deployable Diffusion Policy for Fast Inference Speed [Paper](https://openreview.net/pdf?id=844o68yBS4)
 ---
 Chang Shi, Amy Zhang. RLC 2025 RL for Real System Workshop
 
-[Paper](https://openreview.net/pdf?id=844o68yBS4)
+
 
 
 Null Counterfactual Factor Interactions for Goal-Conditioned Reinforcement Learning
