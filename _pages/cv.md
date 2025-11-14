@@ -72,7 +72,7 @@ Teaching & Services
 * [CMU 10-708: Probabilistic Graphical Models, Fall 2020](http://www.cs.cmu.edu/~pradeepr/708/)
 * [CMU 10-716: Advanced Machine Learning: Theory and Methods, Spring 2021](http://www.cs.cmu.edu/~pradeepr/716/)
 
-Co-hosting [UT Austin RL reading group](https://www.cs.utexas.edu/~rlrg/website.md.html). If you are interested in collaboration, or join the discussion, feel free to reach out!
+Co-hosting [UT Austin RL reading group](https://www.cs.utexas.edu/~rlrg/website.md.html). If you are interested in collaboration, or joining the discussion, feel free to reach out!
 
 <!-- Miscellaneous
 ======
