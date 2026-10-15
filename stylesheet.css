@@ -240,3 +240,41 @@ span.highlight {
   font-size: 12px;
   color: #666;
 }
+
+/* Small icon at the start of a news item */
+
+.news-icon {
+  height: 24px;
+  width: auto;
+  vertical-align: middle;
+  margin-right: 4px;
+}
+
+/* Robot gallery */
+.robot-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(92px, 1fr));
+  gap: 14px;
+  margin-top: 14px;
+}
+
+.robot {
+  margin: 0;
+  text-align: center;
+}
+
+.robot img {
+  width: 100%;
+  max-width: 104px;
+  aspect-ratio: 1 / 1;
+  object-fit: cover;
+  border-radius: 12px;
+  border: 1px solid #e6e6e6;
+}
+
+.robot figcaption {
+  font-family: 'Lato', Verdana, Helvetica, sans-serif;
+  font-size: 13px;
+  margin-top: 6px;
+  color: #333;
+}
