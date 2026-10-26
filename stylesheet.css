@@ -278,3 +278,8 @@ span.highlight {
   margin-top: 6px;
   color: #333;
 }
+
+/* Larger paper thumbnails on the About page */
+.thumb-lg {
+  width: 264px;
+}
